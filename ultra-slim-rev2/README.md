@@ -10,6 +10,7 @@
 
 接口
 <img src="images/connector.jpg" alt="接口" width="600" />
+
 这是 CHERRY MX 超矮轴格斗键盘的第 2 版（rev2）。在这个版本中，PCB 集成了微控制器和 USB 接口。
 
 你需要准备：
