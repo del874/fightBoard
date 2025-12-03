@@ -4,8 +4,9 @@
 
 你需要准备：
 
-* [CNC上盖]
-* [钣金底盖]
+* [CNC上盖](CNC-case/top.step)
+* [钣金底盖](CNC-case/bottom.step)
+* [防滑垫](CNC-case/anti-slip-rubber.dxf)
 * [PCB](pcb/ultra-slim-rev2-gerber.zip) PCB厚度为1.6 mm
 * 16个cherry MX ulp超矮轴 [官网链接](https://www.cherry.de/en-gb/products/switches/mx-ultra-low-profile)
 * [3D 打印按键帽24](/small_parts/cap_24.stl)
