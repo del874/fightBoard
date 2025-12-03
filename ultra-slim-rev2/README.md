@@ -1,6 +1,13 @@
 # CHERRY MX 超矮轴格斗键盘
 
-这是 CHERRY MX 超矮轴格斗键盘的第 2 版（rev2）。在这个版本中，PCB 集成了微控制器和 USB 接口。一切都在板子上，你只需安装键轴（并刷写固件）。
+这个图示设备是本人个人化定制， 与项目中的文件略有不同。
+正面图
+<img src="images/top.JPG" alt="正面图" width="600" />
+背面图
+<img src="images/bottom.JPG" alt="背面图" width="600" />
+接口
+<img src="images/connector.JPG" alt="接口" width="600" />
+这是 CHERRY MX 超矮轴格斗键盘的第 2 版（rev2）。在这个版本中，PCB 集成了微控制器和 USB 接口。
 
 你需要准备：
 
